@@ -1,0 +1,10 @@
+ol li{
+    list-style-type: circle;
+}
+h1{
+    background-color:lightcyan;
+}
+.block{
+    width: 20%;
+    height: 200px;
+}

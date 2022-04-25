@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+p{
+    font-size: larger;
+}
+ul li{
+    font-size: larger;
+}
